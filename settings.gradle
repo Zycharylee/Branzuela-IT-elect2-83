@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "hello android"
 include ':app'
-include ':app:myapplication'
