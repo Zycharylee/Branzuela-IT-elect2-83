@@ -4,7 +4,6 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.DialogFragment;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -32,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         actionBar.setSubtitle(" Design a custom Action Bar");
 
         // adding icon in the ActionBar
-        actionBar.setIcon(R.mipmap.ic_launcher);
+        actionBar.setIcon(R.mipmap.perro);
 
         // methods to display the icon in the ActionBar
         actionBar.setDisplayUseLogoEnabled(true);

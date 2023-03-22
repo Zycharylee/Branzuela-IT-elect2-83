@@ -29,10 +29,10 @@ public class MainActivity4 extends AppCompatActivity {
         // Initializing a String Array
         String[] robot = new String[]{
                 "Select a robot...",
-                "zak",
-                "cary",
-                "143",
-                "0234123"
+                "wally",
+                "bayola",
+                "123",
+                "04032023"
         };
 
 
